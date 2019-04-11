@@ -1,4 +1,4 @@
-#Heterogeneity_Acivity_Recognition_in_Humans
+Heterogeneity_Acivity_Recognition_in_Humans
 ===
 
 [Dataset Link](https://archive.ics.uci.edu/ml/datasets/Heterogeneity+Activity+Recognition)
